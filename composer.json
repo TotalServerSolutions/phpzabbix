@@ -1,5 +1,5 @@
 {
-    "name": "ikke/phpzabbix",
+    "name": "performive/phpzabbix",
     "description": "PHP Zabbix API Client",
     "type": "library",
     "license": "GPL-3.0",
@@ -7,6 +7,10 @@
         {
             "name": "Kevin Daudt",
             "email": "kevin@ikke.info"
+        },
+        {
+            "name": "James Kohns",
+            "email": "james.kohns@performive.com"
         }
     ],
     "minimum-stability": "stable",
